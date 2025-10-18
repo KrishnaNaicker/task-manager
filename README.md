@@ -366,5 +366,6 @@ GitHub: [@KrishnaNaicker](https://github.com/KrishnaNaicker)
 This project is for assessment purposes.
 
 ---
+**I am truly grateful for the opportunity to be considered for the next round and look forward to the possibility of contributing to the innovative work at **Spydarr Web Technologies**.
 
-**🎉 Thank you for reviewing this project!**# task-manager
+Thank you once again for this wonderful opportunity! 🙏**
